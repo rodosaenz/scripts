@@ -1,0 +1,2 @@
+Directory1/file1.pdf
+Directory1/file with space.txt
