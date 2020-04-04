@@ -1,3 +1,4 @@
+#!/bin/bash
 
 BUCKET_SRC=mybucket1
 BUCKET_DST=mybucket2
